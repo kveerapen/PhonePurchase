@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "name": "Kieren",
+      "balance": "1000"
+    },
+    {
+      "name": "George",
+      "balance": "550"
+    },
+    {
+      "name": "Henry",
+      "balance": "100"
+    },
+    {
+      "name": "Tom",
+      "balance": "6000"
+    },
+    {
+      "name": "Sam",
+      "balance": "23"
+    },
+    {
+      "name": "George",
+      "balance": "23"
+    }
+  ]
+}
